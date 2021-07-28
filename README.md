@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rzmk/SimBot">
-    <img src="./simbot-pfp" alt="Cat" width="80" height="80">
+    <img src="simbot-pfp.png" alt="Cat" width="80" height="80">
   </a>
 
   <h3 align="center">SimBot</h3>
